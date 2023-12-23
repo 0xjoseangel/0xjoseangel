@@ -53,7 +53,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@joseangelcarretero-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/joseangelcarretero/)
 [![LinkedIn](https://img.shields.io/badge/JoseAngelCarreteroMontes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-carretero-montes-476008202/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F716&multiline=true&random=false&width=1000&lines=%22La+mejor+manera+de+predecir+el+futuro+es+implementarlo.%22+;David+Heinemeier+Hansson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&multiline=true&random=false&width=1000&lines=%22La+mejor+manera+de+predecir+el+futuro+es+implementarlo.%22+;David+Heinemeier+Hansson)](https://git.io/typing-svg)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
