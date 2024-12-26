@@ -10,13 +10,6 @@
 - 📧 Puedes contactarme a través de:
   - Correo Universitario: joseangel1@correo.ugr.es
   - Correo Personal: joseangelcarretero300@gmail.com
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate Conmigo🤝</h2></summary>
-  </ul>
-</div>
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@0xjoseangel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/0xjoseangel)
